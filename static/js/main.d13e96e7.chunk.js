@@ -1,2 +1,0 @@
-(this["webpackJsonpcarsharing-service"]=this["webpackJsonpcarsharing-service"]||[]).push([[0],{10:function(e,c,n){"use strict";n.r(c);var r=n(1),t=n.n(r),s=n(3),i=n.n(s),a=(n(8),n(0));var o=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h1",{children:"Hello, it's me"})})};i.a.render(Object(a.jsx)(t.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},8:function(e,c,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.d13e96e7.chunk.js.map
