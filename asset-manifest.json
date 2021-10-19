@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carsharing-service/static/css/main.5b546da7.chunk.css",
+    "main.css": "/carsharing-service/static/css/main.aca97643.chunk.css",
     "main.js": "/carsharing-service/static/js/main.6510bf03.chunk.js",
     "main.js.map": "/carsharing-service/static/js/main.6510bf03.chunk.js.map",
     "runtime-main.js": "/carsharing-service/static/js/runtime-main.4e05e258.js",
@@ -8,7 +8,7 @@
     "static/js/2.d82980fc.chunk.js": "/carsharing-service/static/js/2.d82980fc.chunk.js",
     "static/js/2.d82980fc.chunk.js.map": "/carsharing-service/static/js/2.d82980fc.chunk.js.map",
     "index.html": "/carsharing-service/index.html",
-    "static/css/main.5b546da7.chunk.css.map": "/carsharing-service/static/css/main.5b546da7.chunk.css.map",
+    "static/css/main.aca97643.chunk.css.map": "/carsharing-service/static/css/main.aca97643.chunk.css.map",
     "static/js/2.d82980fc.chunk.js.LICENSE.txt": "/carsharing-service/static/js/2.d82980fc.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/carsharing-service/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/Autocomplete.module.scss": "/carsharing-service/static/media/inputCrossButton.13854ee1.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e05e258.js",
     "static/js/2.d82980fc.chunk.js",
-    "static/css/main.5b546da7.chunk.css",
+    "static/css/main.aca97643.chunk.css",
     "static/js/main.6510bf03.chunk.js"
   ]
 }
